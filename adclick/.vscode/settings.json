@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "D:\\Python\\Python37\\python3.exe",
+  "python.linting.pylintArgs": [
+    "--errors-only",
+    "--disable=E0401",
+    "--disable=E1101"
+  ]
+}
